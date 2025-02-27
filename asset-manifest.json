@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gdplayer1/static/css/main.e0d835b6.css",
+    "main.js": "/gdplayer1/static/js/main.a03db1d2.js",
+    "static/media/background.png": "/gdplayer1/static/media/background.ad882fd0016497678264.png",
+    "index.html": "/gdplayer1/index.html",
+    "main.e0d835b6.css.map": "/gdplayer1/static/css/main.e0d835b6.css.map",
+    "main.a03db1d2.js.map": "/gdplayer1/static/js/main.a03db1d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d835b6.css",
+    "static/js/main.a03db1d2.js"
+  ]
+}
