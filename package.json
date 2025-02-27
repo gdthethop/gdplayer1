@@ -2,7 +2,7 @@
   "name": "gdplayer1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gdthethop.github.io/gdplayer1/",
+  "homepage": "https://gdthethop.github.io/gdplayer1",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
